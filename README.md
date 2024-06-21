@@ -1,4 +1,4 @@
-# This website is built with Vite+React and Tailwindcss 
+# Burmese_Bala
 
 Responsive Design: clear and easy for every device
 
