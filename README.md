@@ -1,4 +1,8 @@
-# Burmese_Bala
+# React Fitness Application
 
-![Burmese Bala - Google Chrome 5_10_2024 7_51_37 PM](https://github.com/akmweb/Burmese_Bala/assets/150655160/ae9eafab-f28c-4382-9edf-1d01a07894dc)
+![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
 
+### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
+### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+
+## Launch your development career with project-based coaching - https://www.jsmastery.pro
